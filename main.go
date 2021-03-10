@@ -13,7 +13,7 @@ import (
 var Password []byte
 
 // LenOfPassword - len of Password
-var LenOfPassword int = 20
+var LenOfPassword int = 30
 
 // UpperCase - password characters
 var UpperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
